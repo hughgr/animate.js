@@ -1,0 +1,24 @@
+{
+  "name": "animate.js",
+  "version": "1.0.0",
+  "description": "simple js plugin for animate css",
+  "main": "index.js",
+  "scripts": {
+    "test": "LOL"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hughgr/animate.js.git"
+  },
+  "keywords": [
+    "animate",
+    "animate.css",
+    "animate.js"
+  ],
+  "author": "vvsage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hughgr/animate.js/issues"
+  },
+  "homepage": "https://github.com/hughgr/animate.js#readme"
+}
